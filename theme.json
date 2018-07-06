@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-oxide",
+    "name": "Oxide",
+    "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
+    "url": "https://github.com/youhosi/nodebb-theme-oxide",
+    "screenshot": "screenshot.png"
+}

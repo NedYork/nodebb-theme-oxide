@@ -1,29 +1,29 @@
 {
-  "_from": "nodebb-theme-persona@9.0.19",
-  "_id": "nodebb-theme-persona@9.0.19",
+  "_from": "nodebb-theme-oxide@0.0.1",
+  "_id": "nnodebb-theme-oxide@0.0.1",
   "_inBundle": false,
   "_integrity": "sha512-64wXKoVzoq1DWlOzS0biWFC7SxJC51qiaFdAzvxB+tIv70vW/A3qBOxGSqu2FSIGHxRQQz4sB84ZK7Dq8EkqJg==",
-  "_location": "/nodebb-theme-persona",
+  "_location": "/nodebb-theme-oxide",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "nodebb-theme-persona@9.0.19",
-    "name": "nodebb-theme-persona",
-    "escapedName": "nodebb-theme-persona",
-    "rawSpec": "9.0.19",
+    "raw": "nodebb-theme-oxide@0.0.1",
+    "name": "nodebb-theme-oxide",
+    "escapedName": "nodebb-theme-oxide",
+    "rawSpec": "0.0.1",
     "saveSpec": null,
-    "fetchSpec": "9.0.19"
+    "fetchSpec": "0.0.1"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-9.0.19.tgz",
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-oxide/-/nodebb-theme-oxide-0.0.1.tgz",
   "_shasum": "bbfdcef6064fb9565ec54e04eb25d1dcdf57d6f9",
-  "_spec": "nodebb-theme-persona@9.0.19",
+  "_spec": "nodebb-theme-oxide@0.0.1",
   "_where": "/home/sebastian/Dokumenty/07_NodeBB",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/psychobunny/nodebb-theme-oxide/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -48,8 +48,6 @@
     "striptags": "^3.1.1"
   },
   "deprecated": false,
-  "description": "Persona theme for NodeBB",
-  "homepage": "https://github.com/psychobunny/nodebb-theme-persona#readme",
   "keywords": [
     "nodebb",
     "theme",
@@ -59,13 +57,13 @@
   ],
   "license": "BSD-2-Clause",
   "main": "theme.less",
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-oxide",
   "nbbpm": {
     "compatibility": "^1.10.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/psychobunny/nodebb-theme-persona.git"
+    "url": "git+https://github.com/psychobunny/nodebb-theme-oxide.git"
   },
-  "version": "9.0.19"
+  "version": "0.0.1"
 }
